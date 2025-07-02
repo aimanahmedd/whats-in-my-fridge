@@ -76,6 +76,25 @@ margin-top: 30px;
 position: relative;
 }
 
+.shelfy1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px; 
+  position: relative;
+}
+
+.shelfy2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px; 
+  position: relative;
+}
+
+
 #shelf1, #shelf2 {
 width: 290px;
 height: 290px;
@@ -149,9 +168,9 @@ text-align:center;
 }
 
 #findRecipes{
-  position: absolute;
-  top: 75px;
-  right: 500px;
+  position: relative;
+  top: 15px;
+  left: 15px;
   width: 150px;
   height: 37px; 
   cursor: pointer;
