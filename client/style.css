@@ -181,3 +181,21 @@ text-align:center;
   top:25%;
   left:25%;
 }
+
+#instructions1 {
+  position: absolute;
+  top: -165px; 
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px; 
+  z-index: 2;
+}
+
+#instructions2 {
+  position: absolute;
+  top: -165px; 
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px; 
+  z-index: 2;
+}
