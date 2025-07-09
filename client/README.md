@@ -34,12 +34,12 @@ Tech Stack
 
 ## How to Run
 
-Clone the repo: git clone https://github.com/aimanahmedd/whats-in-my-fridge.git
-Move into the project directory: cd whats-in-my-fridge
-Install dependencies: npm install
-Start the server: npm start
+- Clone the repo: git clone https://github.com/aimanahmedd/whats-in-my-fridge.git
+- Move into the project directory: cd whats-in-my-fridge
+- Install dependencies: npm install
+- Start the server: npm start
 
-open index.html
+- open index.html
 
 ## Inspiration
 
