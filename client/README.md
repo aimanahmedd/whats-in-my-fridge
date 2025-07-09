@@ -22,23 +22,25 @@ A playful full stack web app that helps you find recipes based on the ingredient
 
 ### 3. Recipe Results Popup
 
-![Recipe Results](images/recipes-card.png)
+![Recipe Results](images/recipe-card.png)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-🛠️ Tech Stack
+Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - API: Spoonacular
 
-## 🚀 How to Run
+## How to Run
 
-```bash
-# Clone the repo
-git clone  https://github.com/aimanahmedd/whats-in-my-fridge.git
-cd yourrepo
+Clone the repo: git clone https://github.com/aimanahmedd/whats-in-my-fridge.git
+Move into the project directory: cd whats-in-my-fridge
+Install dependencies: npm install
+Start the server: npm start
 
-# Open in browser
 open index.html
-```
+
+## Inspiration
+
+Made by Aiman Ahmed and inspired by the idea of reducing food waste and helping people cook delicious meals using ingredients they already have!
