@@ -14,15 +14,15 @@ A playful full stack web app that helps you find recipes based on the ingredient
 
 ### 1. Closed Fridge (Start Screen)
 
-![Closed Fridge](images/fridge-closed.png)
+![Closed Fridge](client/images/fridge-closed.png)
 
 ### 2. Fridge Open with Ingredients Inside
 
-![Open Fridge](images/fridge-open.png)
+![Open Fridge](client/images/fridge-open.png)
 
 ### 3. Recipe Results Popup
 
-![Recipe Results](images/recipe-card.png)
+![Recipe Results](client/images/recipe-card.png)
 
 ## Tech Stack
 
