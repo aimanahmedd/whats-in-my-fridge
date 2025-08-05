@@ -74,7 +74,7 @@ A playful full-stack web application that helps you find recipes based on the in
    - Frontend: `http://localhost:8000` (or whatever port you chose)
    - Backend API: `http://localhost:3000`
 
-## 🔧 API Setup
+## API Setup
 
 To use the recipe search functionality, you'll need a Spoonacular API key:
 
